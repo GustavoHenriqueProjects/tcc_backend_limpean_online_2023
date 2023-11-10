@@ -9,7 +9,7 @@
     "build": "tsup src"
   },
   "engines": {
-    "node": ">=14.20.1"
+    "node": ">=16.13.0"
   },
   "author": "Gustavo Henrique",
   "license": "ISC",
